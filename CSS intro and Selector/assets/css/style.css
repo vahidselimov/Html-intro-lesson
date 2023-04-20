@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+
+ /* .about .title{
+    color: chocolate;
+ } */
+ /* Selectors//
+
+ /* .title{
+    color:violet;
+}
+ #text{
+    color: blue !important;
+ }
+ p{
+    color: chartreuse;
+ } */
+*{
+   color: aqua !important;
+}
