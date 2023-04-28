@@ -1,0 +1,50 @@
+
+
+/* Umumi deyerlerin Sifirlanmasi /*
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 40px;
+margin-right: 40px;
+    border-width: 20px;
+    border-top-style: dashed;
+    border-bottom-style: inset;
+    border-color: aqua;
+    border-radius: 20%;
+} */
+
+/* p{
+    border: 1px solid blue;
+    text-align: center;
+    width: 400px;
+    margin-left: 20%;
+    font-size: 30px;
+    margin-top: 20%;
+    padding: 200px 400px 500px 600px;
+    padding-right: 300px;
+ outline: 10px solid red;
+ outline-offset: 20px;
+ border-top: 5px solid green;
+} */
+/* .a{
+    border-bottom: 2px solid red;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20%;
+
+} */
+
+/* .b{
+    font-size: 25px;
+    color: red;
+    margin-right: 40px;
+} */

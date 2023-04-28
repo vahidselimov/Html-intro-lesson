@@ -1,0 +1,12 @@
+.box{
+    width: 1000px;
+    background-image: url(https://www.google.com/search?sxsrf=APwXEdfXAVIj-_CmYgmgS2G6MRrEBfwCkA:1682445579733&q=background+image&tbm=isch&source=univ&fir=gqzX1TfESdsqZM%252C_pUPWoKZqMHalM%252C_%253BmpJpsUCpFwmlgM%252C_pUPWoKZqMHalM%252C_%253BNC2I32BwnL9BPM%252CnrS8yXEy4V6zEM%252C_%253B5z1vA4IPsWS6VM%252Ck7MCw8aXUQYH4M%252C_%253BLD4f5YDD5N9WxM%252CVBhN99_jMoH1jM%252C_%253BGM5UfQxGtdz0KM%252CkwAYUakaqyqIYM%252C_%253BFmjDf6YrTto85M%252Cu-zxCoO71RsdRM%252C_%253BNsOJXO_ULbJ8-M%252CLCj5QrwH7r-G0M%252C_%253Bs8cnn8j7VwoKqM%252CkmIztsADtIrUXM%252C_%253BIXapWIE51cvd3M%252C-fdxKvh_LPxdXM%252C_%253Bn4W7PrANfJfpIM%252CbKJ3gdlWTtaNoM%252C_%253BFIs_-Uj7dvwUdM%252C0YhkbdsB8sWdIM%252C_%253BBvcRLm9Nm5ziCM%252CLAIZRd0gOwrSbM%252C_%253B5fauluQNXpXw-M%252Cs2oK7e6X1Z-DjM%252C_%253Bsw1tu2hUPqWJRM%252Co5DngMMXKg6sCM%252C_&usg=AI4_-kRPqNru8bFZJOgRw_-Gu6HnJ9wc4w&sa=X&ved=2ahUKEwj52IiZzsX-AhUfSfEDHbgnA5wQ7Al6BAgaEGc&biw=1920&bih=961&dpr=1#imgrc=zppryGtm5AcrMM);
+}
+h1{
+    /* width: 100px;
+    background-color: aqua; */
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    
+}
