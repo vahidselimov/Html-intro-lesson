@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    
+    text-align:justify;
+   direction: rtl;
+   unicode-bidi: bidi-override;
+   text-shadow: 2px 2px 2px  red;
+
+}
+a{
+    font-size: 30px;
+    text-decoration:none;
+}
+.myIcon{
+color: brown;
+font-size: 40px;
+}
