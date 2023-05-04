@@ -1,0 +1,26 @@
+/* 
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100&display=swap'); */
+/* @font-face {
+    font-family:  'Roboto', sans-serif;;
+    src: url(../Fonts/Roboto-Italic.ttf);
+} */
+
+  h1{
+    font-family:'Courier News', Courier, monospace;
+    font-weight: 700;
+font-size: 46px;
+}
+.box{
+    font-size: 40px;
+}
+.box h1{
+    font-family:'Courier New', Courier, monospace;
+    font-style:inherit;
+    font-weight: 700;
+font-size: 1em;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
