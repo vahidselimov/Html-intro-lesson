@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+.a{
+    color: aqua;
+}
+#b{
+    color: blue;
+}
+#d .a{
+    color: aqua;
+} 
+
+.about,.text{
+    background-color: aqua;
+}
+
+
+
+
+
